@@ -33,7 +33,7 @@ first thing that all hackers claim.*
 
 ![WebGoat](docs/images/webgoat.png)
 
-# Installation instructions:
+# Installation instructions:a
 
 For more details check [the Contribution guide](/CONTRIBUTING.md)
 
